@@ -1,0 +1,12 @@
+../Core/Src/main.c:75:5:main	24	static
+../Core/Src/main.c:152:6:SystemClock_Config	120	static
+../Core/Src/main.c:202:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:250:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:298:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:314:5:__io_putchar	16	static
+../Core/Src/main.c:319:6:TCA9548A_SelectChannel	32	static
+../Core/Src/main.c:331:6:VL6180X_WriteReg	32	static
+../Core/Src/main.c:337:9:VL6180X_ReadReg	40	static
+../Core/Src/main.c:355:6:VL6180X_SimpleInit	8	static
+../Core/Src/main.c:416:9:VL6180X_ReadRange	16	static
+../Core/Src/main.c:454:6:Error_Handler	4	static,ignoring_inline_asm
